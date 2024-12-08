@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958219284269",
+    "project_id": "renasport-90390",
+    "storage_bucket": "renasport-90390.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958219284269:android:4a32d131aeb83aa079eda4",
+        "android_client_info": {
+          "package_name": "fr.test.testflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1mQzX-06t9sC0R3aIf4s7NsZG6yEXqf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
